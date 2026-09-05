@@ -1,0 +1,33 @@
+{
+  "promptLanguage": "tr",
+  "exclude": {
+    "folders": [
+      ".git",
+      "node_modules",
+      "target",
+      "dist",
+      "build",
+      "bin",
+      "obj",
+      ".idea",
+      ".vscode",
+      "coverage",
+      ".next",
+      "out",
+      "vendor",
+      "packages",
+      "__pycache__",
+      ".venv",
+      "venv",
+      ".turbo",
+      ".cache",
+      ".angular",
+      ".parcel-cache",
+	  "IGNORE_ARCHIVE"
+    ],
+    "files": [
+	"ILK_Talepler.md",
+	"initial_Requests.md"
+	]
+  }
+}
